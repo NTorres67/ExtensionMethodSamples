@@ -1,0 +1,2 @@
+c:\users\ntorr\Source\Repos\ExtensionMethodSamples\ExtensionMethodSamples\obj\Debug\ExtensionMethodSamples.csprojAssemblyReference.cache
+c:\users\ntorr\Source\Repos\ExtensionMethodSamples\ExtensionMethodSamples\obj\Debug\ExtensionMethodSamples.csproj.CoreCompileInputs.cache
